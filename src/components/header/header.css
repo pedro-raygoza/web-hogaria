@@ -1,0 +1,14 @@
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    padding: 50px;
+}
+
+.center{
+    width: 50%;
+}
+
