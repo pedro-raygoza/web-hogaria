@@ -1,0 +1,40 @@
+.body {
+    background-color: white;
+    margin: auto;
+}
+
+.container .titulo{
+   color: black;
+   height: 100px;
+}
+
+
+.container {
+    justify-content: center;
+    color: black;
+    font-family: Montserrat;
+    text-align: center;
+    width: 50%;
+    background-color: white; 
+}
+
+.container .card{
+    border-radius: 8px;
+    box-shadow: 0 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: auto;
+    transition: all 0.25s;
+
+}
+
+.container .card:hover{
+    transform: translate(-15px);
+    box-shadow: 0 12px rgba(0, 0, 0, 0.2);
+
+}
+
+
+.container, img {
+    width: 300px;
+    margin: auto;
+}
