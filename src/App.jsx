@@ -1,4 +1,5 @@
 import './App.css';
+import 'materialize-css/dist/css/materialize.min.css'
 import ComingSoon from './components/coming-soon/Coming-soon';
 import Contact from './components/contact/Contact';
 import Header from './components/header/Header';
