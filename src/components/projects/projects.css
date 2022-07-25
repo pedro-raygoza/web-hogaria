@@ -1,40 +1,37 @@
-.body {
-    background-color: white;
-    margin: auto;
-}
+.seccion {
+    background-color: #f4f6f6;
+    width: 100%;
 
-.container .titulo{
-   color: black;
-   height: 100px;
 }
 
 
 .container {
+    display: flex;
+    align-items: center;
     justify-content: center;
-    color: black;
-    font-family: Montserrat;
+    width: 500px;
     text-align: center;
-    width: 50%;
-    background-color: white; 
-}
-
-.container .card{
-    border-radius: 8px;
-    box-shadow: 0 2px rgba(0, 0, 0, 0.2);
-    overflow: hidden;
-    margin: auto;
-    transition: all 0.25s;
-
+    color: black;
 }
 
 .container .card:hover{
     transform: translate(-15px);
-    box-shadow: 0 12px rgba(0, 0, 0, 0.2);
-
+    box-shadow: 0 12px rgb(0, 0, 0, 0.2);
+    overflow: hidden;
+    transition: all 0.25s;
 }
 
 
-.container, img {
-    width: 300px;
-    margin: auto;
+.container .card .card-image .card-title {
+    color: black;
+    height: 40px;
+    font-size: 30px;
 }
+
+.titulo-proyecto {
+    font-size: 30px;
+}
+
+
+
+

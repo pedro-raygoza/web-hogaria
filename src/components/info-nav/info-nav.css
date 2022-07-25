@@ -2,8 +2,7 @@
     text-align: right;
     width: 100%;
     background-color: #f7ba11;
-    padding: 10px;
-	height: 20px;
+    padding: 5px;
 }
 
 .info-nav-social{
@@ -18,7 +17,7 @@
     cursor: pointer;
 }
 
-.info-nav-email{
+.info-nav-phone{
 	font-family: Montserrat;
 	font-weight: normal;
 	font-size: 14px;
@@ -26,11 +25,4 @@
     margin: 20px;
 }
 
-.info-nav-line {
-	border-left: solid 2px #7a7569;
-	position: absolute;
-	margin-left: -3px;
-	top: 5px;
-	height: 25px;
-}
 
