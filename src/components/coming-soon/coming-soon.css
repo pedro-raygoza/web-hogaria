@@ -1,0 +1,33 @@
+.seccion2 {
+    background-color: white;
+    width: 100%;
+
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    text-align: center;
+    color: black;
+}
+
+.container .card:hover{
+    transform: translate(-15px);
+    box-shadow: 0 12px rgb(0, 0, 0, 0.2);
+    overflow: hidden;
+    transition: all 0.25s;
+}
+
+
+.container .card .card-image .card-title {
+    color: black;
+    height: 40px;
+    font-size: 30px;
+}
+
+.titulo-proyecto {
+    font-size: 30px;
+}
