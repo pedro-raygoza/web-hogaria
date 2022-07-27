@@ -5,8 +5,10 @@ import {faPhoneFlip, faEnvelope, faLocationDot} from "@fortawesome/free-solid-sv
 
 const Investments = () => {
     return (
-        <div>
+        <div className="invest">
             <h1>Inversiones</h1>
+            <span>¿Estas interesado en nuestros productos?<br /> Dejanos tus datos y un asesor se comunicara contigo</span>
+            <br /><a className="btn disabled">Ver mas</a>
         </div>
     )
 }

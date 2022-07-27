@@ -10,16 +10,15 @@
 }
  .iconos-contacto { 
     display:grid;
-    justify-content:center;
+    justify-content:left;
  }
 
 .justify-text {
     text-align: justify;
 }
 
-i {
-    
-}
+
 a{
-    color: #f7ba11;
+    color: #635f5f;
 }
+
