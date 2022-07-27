@@ -6,6 +6,7 @@ const ComingSoon = () => {
     return (
         <>
             <div className="seccion2">
+            <h1 className="">Proximamente</h1>
                 <div className="container">
                         <div className="col s12 m7">
                             <div className="card">
@@ -13,12 +14,8 @@ const ComingSoon = () => {
                                     <img className="comingSoon" src={proximo} alt="Imaria" />
                                 </div>
                                 <div className="card-content">
-                                    <p className="proximante">Proximante</p>
-                                    <p>I am a very simple card. I am good at containing small bits of information.
-                                        I am convenient because I require little markup to use effectively.</p>
-                                </div>
-                                <div className="card-action">
-                                    <a href="#">This is a link</a>
+                                    <p className="proximante">El Faro Residencial</p>
+                                    <p>El Faro Residencial es un conjunto habitacional turístico residencial ubicado en la Bahía de Matanchen. Tu nuevo Hogar te está esperando.</p>
                                 </div>
                             </div>
                         </div>

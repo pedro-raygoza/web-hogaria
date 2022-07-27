@@ -1,9 +1,9 @@
 import React from "react";
-import './contact.css';
+import './investments.css';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faPhoneFlip, faEnvelope, faLocationDot} from "@fortawesome/free-solid-svg-icons"
 
-const Contact = () => {
+const Investments = () => {
     return (
         <div>
             <h1>Inversiones</h1>
@@ -11,4 +11,4 @@ const Contact = () => {
     )
 }
 
-export default Contact
+export default Investments

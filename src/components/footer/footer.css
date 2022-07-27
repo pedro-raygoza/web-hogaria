@@ -1,25 +1,25 @@
 .page-footer {
     background-color: #f4f4f4;
-    
 }
-.page-footer .container . {
-    display:grid;
-
-    
+.page-footer .container {
+    display:grid;   
 }
-
 .titulo-contacto {
     color: black;
     align-content: center;
-
-
 }
  .iconos-contacto { 
     display:grid;
     justify-content:center;
-
-
-
-    
-
  }
+
+.justify-text {
+    text-align: justify;
+}
+
+i {
+    
+}
+a{
+    color: #f7ba11;
+}

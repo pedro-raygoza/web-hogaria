@@ -8,21 +8,20 @@ const Footer = () => {
         <footer className="page-footer">
             <div className="container">
                 <div className="row">
-                    <div className="container-contac">
-                        <h4 className="titulo-contacto">¡Contactanos!</h4>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                    <div className="container-contac justify-text">
+                        <h4 className="titulo-contacto ">Contactanos:</h4>
                         <div className="iconos-contacto">
                             <i>
-                            <FontAwesomeIcon icon={faPhoneFlip} /><a href="tel:+3112413803">3112413803</a></i>
+                            <FontAwesomeIcon icon={faPhoneFlip} /><a href="tel:+3112413803"> 3112413803</a></i>
                             <i>
-                            <FontAwesomeIcon icon={faEnvelope} /><a href="mailto:dir.planeacion@gdhogaria.com">dir.planeacion@gdhogaria.com</a></i>
+                            <FontAwesomeIcon icon={faEnvelope} /><a href="mailto:dir.planeacion@gdhogaria.com"> dir.planeacion@gdhogaria.com</a></i>
                             <i>
-                            <FontAwesomeIcon icon={faLocationDot} /><a href="#">Av. Principal #81-A. Los Limones, Tepic, Nayarit.</a></i>
+                            <FontAwesomeIcon icon={faLocationDot} /><a href="#"> Av. Principal #81-A. Los Limones, Tepic, Nayarit.</a></i>
                         </div>
                     </div>
                     <div class="footer-copyright">
                         <div class="container">
-                            © 2014 Copyright Text
+                            © Hogaria 2022
                         </div>
                     </div>
                 </div>

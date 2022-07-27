@@ -6,20 +6,19 @@ const Projects = () => {
     return (
         <>
             <div className="seccion">
+                <h1 className="">Proyectos</h1>
                 <div className="container">
                         <div className="col s12 m7">
                             <div className="card">
                                 <div className="card-image">
                                     <img className="logo center" src={logoImaria} alt="Imaria" />
-                                    <span className="card-title">Proyectos</span>
                                 </div>
                                 <div className="card-content">
-                                    <p className="titulo-proyecto">IMARA</p>
-                                    <p>I am a very simple card. I am good at containing small bits of information.
-                                        I am convenient because I require little markup to use effectively.</p>
+                                    <p className="titulo-proyecto">Imara Entorno Residencial</p>
+                                    <p>Imara es un fraccionamiento completamente privado, ubicado en una de las zonas de mayor plusvalía. Tu nuevo Hogar te está esperando.</p>
                                 </div>
                                 <div className="card-action">
-                                    <a href="#">This is a link</a>
+                                    <a href="#">Ver mas</a>
                                 </div>
                             </div>
                         </div>
