@@ -14,17 +14,24 @@ function App() {
     <>
     <InfoNav/>
     <Nav/>
+    <div className="size-max-section">
     <Header/>
+    </div>
+    <div className="size-max-section">
     <section id="projects">
     <Projects/>
     </section>
+    </div>
+    <div className="size-max-section">
     <section id="comingsoon">
     <ComingSoon/>
     </section>
+    </div>
+    <div className="size-max-section">
     <section id="investments">
     <Investments/>
     </section>
-    <Map/>
+    </div>
     <section id="contact">
     <Footer/>
     </section>

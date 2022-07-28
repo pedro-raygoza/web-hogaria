@@ -1,7 +1,9 @@
-.invest{
-    background-color: #f4f6f6;
+.invest {
+    font-family: Montserrat;
+	font-weight: normal;
     text-align: center;
     height: 40vh;
     font-size: 1em;
+	color: #7a7569;
 }
 

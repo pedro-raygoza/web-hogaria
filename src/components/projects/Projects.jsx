@@ -5,7 +5,6 @@ import logoImaria from '../../assets/img-logo-imara-green.png'
 const Projects = () => {
     return (
         <>
-            <div className="seccion">
                 <h1 className="">Proyectos</h1>
                 <div className="container">
                         <div className="col s12 m7">
@@ -24,7 +23,6 @@ const Projects = () => {
                         </div>
                 
                 </div>
-            </div>
         </>
 
     )
