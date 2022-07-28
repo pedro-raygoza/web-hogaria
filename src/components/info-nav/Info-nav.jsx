@@ -6,7 +6,6 @@ import { AiFillPhone } from 'react-icons/ai'
 
 const InfoNav = () => {
     return (
-        <div>
            <div className="info-nav">
            <span className="info-nav-social">
            <FiFacebook />
@@ -16,7 +15,6 @@ const InfoNav = () => {
            </span>
            <span className="info-nav-phone"><AiFillPhone className="info-nav-icon-phone"/> 311 241 38 03</span>
            </div>
-        </div>
     )
 }
 

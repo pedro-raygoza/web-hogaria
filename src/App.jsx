@@ -15,11 +15,19 @@ function App() {
     <InfoNav/>
     <Nav/>
     <Header/>
+    <section id="projects">
     <Projects/>
+    </section>
+    <section id="comingsoon">
     <ComingSoon/>
+    </section>
+    <section id="investments">
     <Investments/>
+    </section>
     <Map/>
+    <section id="contact">
     <Footer/>
+    </section>
     </>
   );
 }
