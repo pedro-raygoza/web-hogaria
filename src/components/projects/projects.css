@@ -1,9 +1,3 @@
-.seccion {
-    background-color: #f4f6f6;
-    width: 100%;
-
-}
-
 .container {
     display: flex;
     align-items: center;
@@ -40,5 +34,13 @@ h1 {
     font-family: Montserrat;
 	font-weight: normal;
 	color: #7a7569;
+}
+
+.btn {
+    background-color: #f7ba11;
+}
+
+.btn:hover {
+    background-color: #f7ba11;
 }
 

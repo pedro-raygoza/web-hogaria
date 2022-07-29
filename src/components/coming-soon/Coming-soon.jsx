@@ -5,7 +5,6 @@ import proximo from '../../assets/2.jpg'
 const ComingSoon = () => {
     return (
         <>
-            <div className="seccion2">
             <h1 className="">Proximamente</h1>
                 <div className="container">
                         <div className="col s12 m7">
@@ -21,7 +20,6 @@ const ComingSoon = () => {
                         </div>
                 
                 </div>
-            </div>
         </>
     )
 }
