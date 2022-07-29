@@ -18,7 +18,9 @@ const Projects = () => {
                                     <p>Imara es un fraccionamiento completamente privado, ubicado en una de las zonas de mayor plusvalía. Tu nuevo Hogar te está esperando.</p>
                                 </div>
                                 <div className="card-action">
-                                    <a href="#">Ver mas</a>
+                                    <a href="./IMARA 1.pdf" download>
+                                        {""}
+                                        Ver mas</a>
                                 </div>
                             </div>
                         </div>
