@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    text-align: center;
+    color: black;
+}
+
+ .card:hover{
+    box-shadow: 4px 8px 20px 2px rgba(0,0,0,0.15); 
+    transition: 0.2s ease-in-out;
+}
+
+.titulo-proyecto {
+    font-family: Montserrat;
+	font-weight: normal;
+	font-size: 30px;
+	color: #7a7569;
+    margin: 3px;
+}
+
+p {
+    font-family: Montserrat;
+	font-weight: normal;
+	font-size: 15px;
+	color: #7a7569;
+    margin: 3px;
+}

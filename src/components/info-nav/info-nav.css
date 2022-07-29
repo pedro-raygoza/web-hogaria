@@ -1,0 +1,31 @@
+.info-nav {
+    text-align: right;
+    width: 100%;
+    background-color: #f7ba11;
+    padding: 5px;
+}
+
+.info-nav-social{
+    float: left;
+	font-family: Montserrat;
+	font-weight: normal;
+	font-size: 14px;
+	color: #7a7569;
+	text-decoration: none;
+    margin: 2px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.info-nav-phone{
+	font-family: Montserrat;
+	font-weight: normal;
+	font-size: 14px;
+	color: #7a7569;
+    margin: 20px;
+}
+
+.icon-whatsap{
+    padding-top: 1.5px;
+}
+

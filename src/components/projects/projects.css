@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    text-align: center;
+    color: black;
+}
+
+.proximante {
+    font-size: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    font-family: Montserrat;
+	font-weight: normal;
+	color: #7a7569;
+}
+
+.btn {
+    background-color: #f7ba11;
+}
+
+.btn:hover {
+    background-color: #f7ba11;
+}
+
