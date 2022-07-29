@@ -18,8 +18,20 @@
     text-align: justify;
 }
 
-
 a{
     color: #635f5f;
 }
 
+h4 {
+    font-family: Montserrat;
+	font-weight: normal;
+	font-size: 35px;
+}
+
+i{
+    font-family: Montserrat;
+	font-weight: normal;
+	font-size: 20px;
+	color: #7a7569;
+    margin: 3px;
+}

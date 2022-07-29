@@ -19,11 +19,6 @@ const Footer = () => {
                             <FontAwesomeIcon icon={faLocationDot} /><a href="#"> Av. Principal #81-A. Los Limones, Tepic, Nayarit.</a></i>
                         </div>
                     </div>
-                    <div class="footer-copyright">
-                        <div class="container">
-                            © Hogaria 2022
-                        </div>
-                    </div>
                 </div>
             </div>
         </footer>
