@@ -1,6 +1,7 @@
 import React from 'react'
 import './projects.css'
 import logoImaria from '../../assets/imara-project.jpg'
+import imaraPDF from '../../assets/IMARA.pdf'
 
 const Projects = () => {
     return (
@@ -17,7 +18,7 @@ const Projects = () => {
                                     <p>Imara es un fraccionamiento completamente privado, ubicado en una de las zonas de mayor plusvalía. Tu nuevo Hogar te está esperando.</p>
                                 </div>
                                 <div className="card-action">
-                                    <a href="./IMARA 1.pdf" download>
+                                    <a href={imaraPDF} target='_blank' rel='noopener noreferrer'>
                                         {""}
                                         Ver mas</a>
                                 </div>
