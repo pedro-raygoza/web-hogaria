@@ -1,11 +1,11 @@
 import React from 'react'
 import './projects.css'
-import logoImaria from '../../assets/img-logo-imara-green.png'
+import logoImaria from '../../assets/imara-project.jpg'
 
 const Projects = () => {
     return (
         <>
-                <h1 className="">Proyectos</h1>
+                <h1>Proyectos</h1>
                 <div className="container">
                         <div className="col s12 m7">
                             <div className="card">

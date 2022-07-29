@@ -7,20 +7,23 @@
     color: black;
 }
 
-.container .card:hover{
-    transform: translate(-15px);
-    box-shadow: 0 12px rgb(0, 0, 0, 0.2);
-    overflow: hidden;
-    transition: all 0.25s;
-}
-
-
-.container .card .card-image .card-title {
-    color: black;
-    height: 40px;
-    font-size: 30px;
+ .card:hover{
+    box-shadow: 4px 8px 20px 2px rgba(0,0,0,0.15); 
+    transition: 0.2s ease-in-out;
 }
 
 .titulo-proyecto {
-    font-size: 30px;
+    font-family: Montserrat;
+	font-weight: normal;
+	font-size: 30px;
+	color: #7a7569;
+    margin: 3px;
+}
+
+p {
+    font-family: Montserrat;
+	font-weight: normal;
+	font-size: 15px;
+	color: #7a7569;
+    margin: 3px;
 }

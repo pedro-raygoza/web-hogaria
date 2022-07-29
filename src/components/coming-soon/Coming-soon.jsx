@@ -1,11 +1,11 @@
 import React from 'react'
 import './coming-soon.css'
-import proximo from '../../assets/2.jpg'
+import proximo from '../../assets/coming-soon.png'
 
 const ComingSoon = () => {
     return (
         <>
-            <h1 className="">Proximamente</h1>
+            <h1>Proximamente</h1>
                 <div className="container">
                         <div className="col s12 m7">
                             <div className="card">
