@@ -32,6 +32,7 @@ function App() {
     <Investments/>
     </section>
     </div>
+    <Map/>
     <section id="contact">
     <Footer/>
     </section>
