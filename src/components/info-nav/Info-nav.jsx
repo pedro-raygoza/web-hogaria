@@ -1,19 +1,16 @@
 import React from 'react'
 import './info-nav.css'
 import { FiFacebook } from 'react-icons/fi'
-import { FiInstagram } from 'react-icons/fi'
-import { AiFillPhone } from 'react-icons/ai'
-
+import { BsWhatsapp } from 'react-icons/bs'
 const InfoNav = () => {
     return (
            <div className="info-nav">
-           <span className="info-nav-social">
+           <a className="info-nav-social" href="https://www.facebook.com/Hogaria-106816295391915">
            <FiFacebook />
-           </span>
-           <span className="info-nav-social">
-            <FiInstagram />
-           </span>
-           <span className="info-nav-phone"><AiFillPhone className="info-nav-icon-phone"/> 311 241 38 03</span>
+           </a>
+           <a className="info-nav-phone" href="https://wa.me/523112413803?text=Hola me podrías brindar información?">
+           <BsWhatsapp className="icon-whatsap"/> 311 241 38 03
+            </a>
            </div>
     )
 }
