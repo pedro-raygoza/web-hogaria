@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b45d642b.css",
-    "main.js": "/static/js/main.b0c18fbd.js",
+    "main.js": "/static/js/main.412f1815.js",
     "static/media/IMARA.pdf": "/static/media/IMARA.ec3d8117113ee11b5cc3.pdf",
     "static/media/imara-project.jpg": "/static/media/imara-project.3a136aaf3cb41af8a195.jpg",
     "static/media/img-logo-hogaria.png": "/static/media/img-logo-hogaria.aab9ba5715d3ea3e9f53.png",
     "static/media/coming-soon.png": "/static/media/coming-soon.9a6f40db92d116f2f7ba.png",
     "index.html": "/index.html",
     "main.b45d642b.css.map": "/static/css/main.b45d642b.css.map",
-    "main.b0c18fbd.js.map": "/static/js/main.b0c18fbd.js.map"
+    "main.412f1815.js.map": "/static/js/main.412f1815.js.map"
   },
   "entrypoints": [
     "static/css/main.b45d642b.css",
-    "static/js/main.b0c18fbd.js"
+    "static/js/main.412f1815.js"
   ]
 }
